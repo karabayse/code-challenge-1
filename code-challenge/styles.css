@@ -1,0 +1,12 @@
+/* CSS Stylesheet */
+body {
+  font-family: sans-serif;
+}
+
+.color-div{
+  background-color: red;
+}
+
+#create-div {
+  background-color: red;
+}
